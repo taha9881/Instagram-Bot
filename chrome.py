@@ -3,7 +3,7 @@ import selenium
 from time import sleep
 
 username = "foodie_tahaa"
-password = "i love my 4 ex"
+passwords = "i love my 4 ex"
 
 class Instagram:
     def __init__(self,username,password):
