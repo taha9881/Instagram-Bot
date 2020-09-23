@@ -2,8 +2,8 @@ from selenium import webdriver
 import selenium
 from time import sleep
 
-username = "foodie_tahaa"
-passwords = "i love my 4 ex"
+username ="###"
+passwords = "###"
 
 class Instagram:
     def __init__(self,username,password):
